@@ -1,0 +1,150 @@
+      <!-- Navbar -->
+      <nav class="navbar">
+        <!-- logo -->
+        <span class="logo">COMPANY NAME</span>
+        <!-- list of links -->
+        <ul class="navlinks">
+          <li>
+            <a href="#">Home</a>
+          </li>
+          <li>
+            <a href="#">About</a>
+          </li>
+          <li>
+            <a href="#">Contact</a>
+          </li>
+          <li>
+            <button class="primary_button">Sign in</button>
+          </li>
+        </ul>
+      </nav>
+      <!-- hero content -->
+      <div class="hero-content">
+        <div class="hero-header">
+          <h1>Landing Page</h1>
+          <h2>Creative Design</h2>
+        </div>
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam, nihil
+          mollitia. Ipsa asperiores temporibus quos ratione error nulla repellat
+          voluptatem natus similique distinctio dolor nobis magni hic odit,
+          perspiciatis quo?
+        </p>
+        <div class="hero-buttons">
+          <button class="outline-button">Try Now</button>
+          <button class="primary_button">Contact us</button>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  align-items: center;
+}
+#hero-section {
+  min-height: 100vh;
+  background-image: url("../assets/projecback.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+.logo {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2.5em 4em;
+  align-items: center;
+}
+.navlinks {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4em;
+}
+.navlinks a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+  font-size: 1.2em;
+}
+.primary_button {
+  color: white;
+  background-color: rgba(132, 132, 153, 0.829);
+  border: 1px white solid;
+}
+button {
+  cursor: pointer;
+  padding: 0.3em 2em;
+  border-radius: 0.4em;
+  font-size: 1.2em;
+}
+.outline-button {
+  border: 1px white solid;
+  background-color: transparent;
+  color: white;
+} */
+/* hero contents */
+/* .hero-content {
+  width: 30em;
+  margin-left: 6em;
+  margin-top: 4em;
+}
+.hero-header {
+  margin-bottom: 3em;
+}
+.hero-header h1 {
+  font-size: 4em;
+  font-weight: 600;
+}
+.hero-header h2 {
+  font-size: 2.5em;
+  font-weight: 500;
+}
+.hero-content p {
+  margin-bottom: 4em;
+}
+.hero-buttons {
+  display: flex;
+  gap: 2em;
+} */
