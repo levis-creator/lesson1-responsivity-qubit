@@ -120,4 +120,13 @@ button {
     width: 50%;
   }
 }
-/* onsfdpohnsaprfhsgprojgprjgpjwregjjlaerpojgapojrgpjoarepjgapor */
+@media (min-width: 1280px) {
+  nav {
+    padding: 1.5em 7em;
+  }
+}
+@media (min-width: 1536px) {
+  nav {
+    padding: 1.5em 10em;
+  }
+}
